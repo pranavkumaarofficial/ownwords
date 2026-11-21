@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.venv/
+
+# The corpus lives in a per-user data directory (see ownwords/paths.py), not
+# here. These are a second line of defence in case someone points
+# OWNWORDS_HOME at the checkout or drops an export into it.
+data/
+*.db
+*.mbox
+conversations.json
+my_messages.txt

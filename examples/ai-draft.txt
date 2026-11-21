@@ -1,0 +1,14 @@
+Dear Professor Chen,
+
+I hope this email finds you well. I am writing to express my profound interest in the research opportunities available within your laboratory, which stands as a testament to the cutting-edge work being conducted in distributed systems at UMass Amherst.
+
+In today's rapidly evolving technological landscape, I believe my background positions me as a robust candidate for your group. During my two years as a software engineer, I had the opportunity to delve into a myriad of complex systems challenges, leveraging both my theoretical foundation and practical expertise to deliver seamless solutions. It's not just my technical skills that I bring, but a genuine passion for inquiry, collaboration, and innovation.
+
+I am particularly drawn to your recent work on consensus protocols, which underscores the intricate interplay between theoretical guarantees and practical performance, highlighting the importance of principled system design. Additionally, I have been exploring local model inference, which could potentially possibly offer interesting synergies with your ongoing efforts.
+
+I would be thrilled to discuss how I might contribute to your team. Please let me know if you would be available for a brief conversation at your convenience.
+
+Thank you for your time and consideration!
+
+Warm regards,
+Pranav
